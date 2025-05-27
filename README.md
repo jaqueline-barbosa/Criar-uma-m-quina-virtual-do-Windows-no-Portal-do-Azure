@@ -1,3 +1,8 @@
+# Desafio DIO - Microsoft Azure 🚀
+
+## 📌 Descrição do Desafio
+Este projeto tem como objetivo praticar o processo de criação e configuração de uma máquina virtual na plataforma **Microsoft Azure**. Aqui você encontrará um resumo das etapas realizadas, aprendizados adquiridos e materiais de apoio para futuras implementações.
+
 # Passo a Passo: Criar e Configurar uma Máquina Virtual Windows no Azure
 
 ## 1. Acesse o Portal Azure
@@ -55,3 +60,14 @@ Clique em **Avançar** até chegar em **Revisar + criar**.
 - Altere a senha periodicamente.
 - Considere utilizar regras de grupo de segurança de rede (NSG) para restringir o acesso ao RDP por IP.
 - Mantenha o sistema operacional sempre atualizado.
+
+## 📚 Principais Aprendizados e Dicas
+- Utilize **Resource Groups** para organizar seus recursos na Azure.
+- Escolha o tamanho da VM de acordo com sua necessidade para evitar custos desnecessários.
+- Configure regras de firewall para permitir acesso seguro à sua VM.
+
+## 🔗 Links Úteis para Documentação
+- [Criar uma máquina virtual no Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)
+- [Documentação Oficial da Azure](https://learn.microsoft.com/pt-br/azure/)
+- [Guia Completo do GitHub](https://docs.github.com/)
+
